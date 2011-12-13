@@ -1,3 +1,6 @@
+# Nagios check script for god.  http://god.rubyforge.org/
+# Big thanks to www.meteostar.com for open-sourcing this script.
+
 require 'optparse'
 
 OK = 0
